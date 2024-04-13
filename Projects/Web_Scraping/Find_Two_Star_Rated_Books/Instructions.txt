@@ -1,0 +1,2 @@
+Get the title of every book that has a 2 star rating and at the end just have a Python list with all their titles.
+From website : http://books.toscrape.com/index.html 

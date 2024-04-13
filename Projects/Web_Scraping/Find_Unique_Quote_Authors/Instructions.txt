@@ -1,0 +1,2 @@
+Get all the unique authors on the website and create a loop that is robust enough that it wouldn't matter to know the amount of pages beforehand.
+From website : https://quotes.toscrape.com
